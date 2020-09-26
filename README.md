@@ -1,5 +1,10 @@
 # 01 HTML CSS Git: Code Refactor
 
+In this project, I had to refactor the code to meet a proper criteria. I was given the html and the css file to start. Below are the changes that I have made.
+<img src="./Assets/htmlfilestart.PNG">
+<img src="./Assets/htmlfileupdate.PNG">
+<img src="./Assets/cssfilestart.png">
+<img src="./Assets/cssfileupdate.PNG">
 ## Your Task
 
 **Note**: Be sure to review the [Homework Guide](../04-Important/Homework-Guide/README.md) and the [Good README Guide](../04-Important/Good-README-Guide/README.md) before you start working on this assignment!
